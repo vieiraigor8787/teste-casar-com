@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #32c0c6;
+  --primaryLight: #d4edee;
+  --primaryDark: #329599;
+  --placeholderText: #8c8c8c;
+  --greyNeutral: #616161;
+  --greyDark: #4e4e4e;
+  --greySecondary: #e3e6e9;
+  --white: #fff;
+  --backgroundMatte: #f3f3f5;
+  --success: #5cb85c;
+  --warning: #ffb22b;
+  --danger: #fc4b6c;
+}
