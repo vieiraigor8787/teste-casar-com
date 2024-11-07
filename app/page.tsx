@@ -1,5 +1,6 @@
 import { Footer } from '@/components/footer'
 import { Menu } from '@/components/menu'
+import { NoUserFound } from '@/components/no-user-found'
 import { SearchScreen } from '@/components/search-screen'
 
 export default function Home() {

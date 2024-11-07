@@ -1,5 +1,6 @@
 import Image from 'next/image'
-import React from 'react'
+
+import { NoUserFound } from './no-user-found'
 
 export const SearchScreen = () => {
   return (
