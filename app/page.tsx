@@ -1,3 +1,9 @@
+import { Menu } from '@/components/menu'
+
 export default function Home() {
-  return <h1 className="text-greyNeutral text-xl">hello world</h1>
+  return (
+    <div className="lg:max-w-screen-2xl w-full mx-auto">
+      <Menu />
+    </div>
+  )
 }
