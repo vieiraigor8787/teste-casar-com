@@ -1,5 +1,6 @@
 import { Footer } from '@/components/footer'
 import { Menu } from '@/components/menu'
+import { MyFavorite } from '@/components/my-favorite'
 import { NoUserFound } from '@/components/no-user-found'
 import { ProfileSreen } from '@/components/profile-screen'
 import { SearchScreen } from '@/components/search-screen'
@@ -11,7 +12,8 @@ export default function Home() {
       {/* <SearchScreen />
       <Footer /> */}
 
-      <ProfileSreen />
+      {/* <ProfileSreen /> */}
+      <MyFavorite />
     </div>
   )
 }

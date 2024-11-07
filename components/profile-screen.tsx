@@ -31,8 +31,8 @@ export const ProfileSreen = () => {
           multinacionais.
         </p>
       </div>
-      <div className="space-y-4 lg:max-w-[896px] w-full">
-        <h2 className="lg:text-xl text-primary font-bold lg:leading-8">
+      <div className="space-y-4 lg:max-w-[896px] w-full mt-4">
+        <h2 className="text-xl text-primary font-bold lg:leading-8">
           Repositórios
         </h2>
 
